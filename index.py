@@ -1,4 +1,4 @@
-# A simple graphical Calculator Application in Python
+# A simple Graphical  Application in Python
 from itertools import permutations
 from itertools import combinations
 from graphics import *
